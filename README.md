@@ -50,7 +50,7 @@ THEN I find a concise, descriptive title
 
 ### Links
 
-- Live Site URL: [Horiseon Website on GitHub](https://niferk.github.io/Horiseon-Social-Solution-Services-SEO-Managemen-h1/)
+- Live Site URL: [Horiseon Website on GitHub](https://niferk.github.io/Horiseon-Social-Solution-Services-SEO-Management-h1/)
 
 ## My process
 
